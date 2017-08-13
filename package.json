@@ -1,0 +1,52 @@
+{
+  "_from": "electron-oauth-vk",
+  "_id": "electron-oauth-vk@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-UfebAbRwjvmM5iXZOY1BrPpetMTZ/TkOcNrPS3o/FHnaBSCFxQ9+P8Qw6gLrFwNjeYXjHyQla4K/JkatiyHpAQ==",
+  "_location": "/electron-oauth-vk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "electron-oauth-vk",
+    "name": "electron-oauth-vk",
+    "escapedName": "electron-oauth-vk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/electron-oauth-vk/-/electron-oauth-vk-0.0.0.tgz",
+  "_shasum": "7b29047d37aecb11c8611321c78f2cf23f1f6600",
+  "_spec": "electron-oauth-vk",
+  "_where": "/Users/aacidov/node",
+  "author": {
+    "name": "ibakaidov"
+  },
+  "bugs": {
+    "url": "https://github.com/ibakaidov/electron-oauth-vk/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Module for auth by vk for electron",
+  "homepage": "https://github.com/ibakaidov/electron-oauth-vk#readme",
+  "keywords": [
+    "vk",
+    "electron",
+    "oauth"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "electron-oauth-vk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibakaidov/electron-oauth-vk.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
